@@ -1,0 +1,123 @@
+-rw-r----- 1            0 Feb 14 12:09 FILELIST
+-rw-r--r-- 1        17133 Feb 14 11:08 README
+-rw-r--r-- 1         4844 Jan 13 16:45 arnoldi.c
+-rw-r--r-- 1        13360 Feb 14 11:39 bdfactor.c
+-rw-r--r-- 1         8450 Jan 13 16:45 bkpfacto.c
+-rw-r--r-- 1         5022 Jan 13 16:36 chfactor.c
+-rwxr-xr-x 1        27085 Jan 14 12:04 configure
+-rw-r--r-- 1         3034 Jan 14 12:04 configure.in
+-rw-r--r-- 1         8250 Jan 13 16:36 conjgrad.c
+-rw-r--r-- 1         5530 Jan 13 16:37 copy.c
+-rw-r--r-- 1         1124 Jan 13 16:54 copyright
+-rw-r--r-- 1         1402 Jan 13 16:37 dmacheps.c
+-rw-r--r-- 1         9756 Jan 13 16:38 err.c
+-rw-r--r-- 1         5678 Jan 13 16:38 err.h
+-rw-r--r-- 1        10923 Jan 13 16:45 extras.c
+-rw-r--r-- 1         3892 Jan 13 16:45 fft.c
+-rw-r--r-- 1         1400 Jan 13 16:39 fmacheps.c
+-rw-r--r-- 1         3603 Jan 13 16:39 givens.c
+-rw-r--r-- 1         4063 Jan 13 16:36 hessen.c
+-rw-r--r-- 1         4735 Jan 13 16:36 hsehldr.c
+-rw-r--r-- 1         5889 Jan 13 16:37 init.c
+-rw-r--r-- 1         3396 Jan 14 11:46 iotort.c
+-rw-r--r-- 1         6787 Jan 13 16:38 iter.h
+-rw-r--r-- 1         8878 Jan 13 16:38 iter0.c
+-rw-r--r-- 1        30104 Feb 02 17:03 iternsym.c
+-rw-r--r-- 1        13826 Jan 13 16:39 itersym.c
+-rw-r--r-- 1        16178 Jan 14 11:46 itertort.c
+-rw-r--r-- 1         9800 Jan 13 16:45 ivecop.c
+-rw-r--r-- 1         7733 Jan 13 16:28 lanczos.c
+-rw-r--r-- 1          397 Jan 13 16:49 ls.dat
+-rw-r--r-- 1         6590 Jan 13 16:28 lufactor.c
+-rw-r--r-- 1         3669 Jan 25 09:39 machine.c
+-rw-r--r-- 1         3813 Jan 14 16:41 machine.h
+-rw-r--r-- 1         3638 Jan 14 12:04 machine.h.in
+-rw-r--r-- 1         5654 Feb 14 12:09 makefile
+-rw-r--r-- 1         5556 Feb 04 08:38 makefile.in
+-rw-r--r-- 1         5063 Jan 13 16:30 matlab.c
+-rw-r--r-- 1         2998 Jan 13 16:45 matlab.h
+-rw-r--r-- 1        12014 Jan 13 16:30 matop.c
+-rw-r--r-- 1        19007 Jan 13 16:30 matrix.h
+-rw-r--r-- 1         8291 Jan 13 16:31 matrix2.h
+-rw-r--r-- 1        13409 Jan 13 16:31 matrixio.c
+-rw-r--r-- 1         1257 Jan 13 16:31 maxint.c
+-rw-r--r-- 1         9155 Jan 13 16:32 meminfo.c
+-rw-r--r-- 1         4148 Jan 13 16:32 meminfo.h
+-rw-r--r-- 1        19991 Jan 13 16:32 memory.c
+-rw-r--r-- 1         8644 Jan 13 16:33 memstat.c
+-rw-r--r-- 1        17345 Jan 14 11:46 memtort.c
+-rw-r--r-- 1         9018 Jan 13 16:34 mfunc.c
+-rw-r--r-- 1         4533 Jan 14 12:08 mfuntort.c
+-rw-r--r-- 1         4187 Jan 13 16:34 norm.c
+-rw-r--r-- 1         3853 Jan 13 16:34 oldnames.h
+-rw-r--r-- 1         4226 Jan 13 16:35 otherio.c
+-rw-r--r-- 1         7275 Jan 13 16:35 pxop.c
+-rw-r--r-- 1        13381 Jan 13 16:35 qrfactor.c
+-rw-r--r-- 1          141 Jan 13 16:49 rk4.dat
+-rw-r--r-- 1        16623 Jan 13 16:35 schur.c
+-rw-r--r-- 1         6553 Jan 13 16:30 solve.c
+-rw-r--r-- 1        23531 Jan 13 16:32 sparse.c
+-rw-r--r-- 1         6483 Jan 13 16:33 sparse.h
+-rw-r--r-- 1         3160 Jan 13 16:33 sparse2.h
+-rw-r--r-- 1         8225 Jan 13 16:34 sparseio.c
+-rw-r--r-- 1        35604 Jan 13 16:44 spbkp.c
+-rw-r--r-- 1        15913 Jan 13 16:31 spchfctr.c
+-rw-r--r-- 1         9531 Jan 13 16:36 splufctr.c
+-rw-r--r-- 1        17667 Jan 13 16:35 sprow.c
+-rw-r--r-- 1         7408 Jan 13 16:44 spswap.c
+-rw-r--r-- 1        11234 Jan 14 11:46 sptort.c
+-rw-r--r-- 1         4533 Jan 13 16:28 submat.c
+-rw-r--r-- 1         9917 Jan 13 16:44 svd.c
+-rw-r--r-- 1         5825 Jan 13 16:28 symmeig.c
+-rw-r--r-- 1        27767 Jan 14 11:46 torture.c
+-rw-r--r-- 1         4499 Jan 14 14:43 tutadv.c
+-rw-r--r-- 1         7767 Jan 17 09:53 tutorial.c
+-rw-r--r-- 1         3441 Jan 13 16:26 update.c
+-rw-r--r-- 1        13299 Jan 13 16:26 vecop.c
+-rw-r--r-- 1         2029 Jan 13 16:44 version.c
+-rw-r--r-- 1         5204 Jan 13 15:28 zcopy.c
+-rw-r--r-- 1         4411 Jan 13 15:28 zfunc.c
+-rw-r--r-- 1         4824 Jan 13 15:28 zgivens.c
+-rw-r--r-- 1         3948 Jan 13 15:27 zhessen.c
+-rw-r--r-- 1         5414 Jan 13 15:26 zhsehldr.c
+-rw-r--r-- 1         6892 Jan 13 15:26 zlufctr.c
+-rw-r--r-- 1         4255 Jan 13 15:26 zmachine.c
+-rw-r--r-- 1        10649 Jan 13 15:25 zmatio.c
+-rw-r--r-- 1         5845 Jan 13 15:25 zmatlab.c
+-rw-r--r-- 1        15253 Jan 13 15:24 zmatop.c
+-rw-r--r-- 1         8596 Jan 13 15:24 zmatrix.h
+-rw-r--r-- 1         4151 Jan 13 15:24 zmatrix2.h
+-rw-r--r-- 1        15261 Jan 13 15:22 zmemory.c
+-rw-r--r-- 1         4624 Jan 13 15:21 znorm.c
+-rw-r--r-- 1        13780 Jan 13 15:21 zqrfctr.c
+-rw-r--r-- 1        10977 Jan 13 15:21 zschur.c
+-rw-r--r-- 1         7573 Jan 13 15:20 zsolve.c
+-rw-r--r-- 1        19982 Jan 14 11:46 ztorture.c
+-rw-r--r-- 1        11091 Jan 13 15:26 zvecop.c
+
+DOC:
+total 136
+-rw-r----- 1        17186 Jan 14 12:01 fnindex.txt
+-rw-r----- 1        45980 Jan 14 12:01 tutorial.txt
+
+MACHINES:
+total 24
+drwxr-s--- 2          512 Jan 14 14:24 GCC
+drwxr-s--- 2          512 Feb 14 12:08 RS6000
+drwxr-s--- 2          512 Jan 14 14:24 SPARC
+
+MACHINES/GCC:
+total 24
+-rw-r----- 1         3775 Jan 14 14:24 machine.h
+-rw-r----- 1         5183 Jan 14 14:24 makefile
+
+MACHINES/RS6000:
+total 40
+-rw-r----- 1         6129 Jan 25 09:39 machine.c
+-rw-r----- 1         3502 Jan 14 14:24 machine.h
+-rw-r----- 1         5654 Feb 14 12:07 makefile
+
+MACHINES/SPARC:
+total 24
+-rw-r----- 1         3524 Jan 14 14:24 machine.h
+-rw-r----- 1         5186 Jan 14 14:24 makefile
